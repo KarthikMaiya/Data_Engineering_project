@@ -39,7 +39,9 @@ Azure Synapse Analytics
         ▼
 Power BI Dashboard
 ```
+## Architecture
 
+![Architecture](architecture.png)
 ---
 
 # 🛠️ Tech Stack
