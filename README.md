@@ -10,6 +10,9 @@ This project demonstrates a modern cloud-based data engineering pipeline built o
 
 ### Architecture
 
+
+![Architecture](architecture.png)
+
 ```
 GitHub (CSV Files)
         │
@@ -41,7 +44,6 @@ Power BI Dashboard
 ```
 ## Architecture
 
-![Architecture](architecture.png)
 ---
 
 # 🛠️ Tech Stack
